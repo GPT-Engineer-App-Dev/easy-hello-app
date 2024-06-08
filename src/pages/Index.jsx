@@ -9,7 +9,6 @@ const Index = () => {
         <Spacer />
         <Box>
           <Link to="/" style={{ margin: "0 1rem" }}>Home</Link>
-          <Link to="/about" style={{ margin: "0 1rem" }}>About</Link>
         </Box>
       </Flex>
       <Container centerContent maxW="container.md" height="80vh" display="flex" flexDirection="column" justifyContent="center" alignItems="center">
